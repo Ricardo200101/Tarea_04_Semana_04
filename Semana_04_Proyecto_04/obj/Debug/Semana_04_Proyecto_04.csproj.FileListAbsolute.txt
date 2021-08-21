@@ -1,0 +1,12 @@
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Semana_04_Proyecto_04.exe.config
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Semana_04_Proyecto_04.exe
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Semana_04_Proyecto_04.pdb
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Biblioteca_2.dll
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Salario.dll
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Biblioteca_2.pdb
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\bin\Debug\Salario.pdb
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\obj\Debug\Semana_04_Proyecto_04.csproj.AssemblyReference.cache
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\obj\Debug\Semana_04_Proyecto_04.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\obj\Debug\Semana_04_Proyecto_04.csproj.CopyComplete
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\obj\Debug\Semana_04_Proyecto_04.exe
+C:\Users\Ricardo Alvarez\source\repos\Semana_04_Proyecto_04\Semana_04_Proyecto_04\obj\Debug\Semana_04_Proyecto_04.pdb
